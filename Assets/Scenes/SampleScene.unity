@@ -1554,12 +1554,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -113727,7 +113727,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1987728974
 RectTransform:
   m_ObjectHideFlags: 0
@@ -113735,17 +113735,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1987728973}
-  m_LocalRotation: {x: 0.008802043, y: 0.008649743, z: 0.008649744, w: 0.99988645}
+  m_LocalRotation: {x: 0.0154170375, y: -0.006179283, z: 0.9998518, w: -0.0045301556}
   m_LocalPosition: {x: 0, y: 0, z: 0.24889821}
-  m_LocalScale: {x: 0.5, y: 0.6, z: 0.68178}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: -2.31, y: -2.772, z: -3.1498234}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 359842163}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 179.3, y: -178.23, z: 0.53}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.000010252, y: 83}
-  m_SizeDelta: {x: 911.02, y: 471.68}
+  m_SizeDelta: {x: 250, y: 118.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1987728975
 MonoBehaviour:
